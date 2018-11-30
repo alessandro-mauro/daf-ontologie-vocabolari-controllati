@@ -1475,7 +1475,7 @@ vcard:hasEmail
     skos:notation "D.4.1" ;
     dct:identifier "D.4.1" ;
     clvapit:hasRankOrder "3" ;
-    skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D41> ;
+    skos:broader <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D4> ;
     skos:narrower <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D411> ;
     skos:broaderTransitive <https://w3id.org/italia/controlled-vocabulary/classifications-for-accommodation-facilities/accommodation-typology/D> ;
     skos:prefLabel "Marina resort"@it .
